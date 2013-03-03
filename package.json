@@ -1,0 +1,28 @@
+{
+  "author": "Ethan Resnick <ethan.resnick@gmail.com> (https://github.com/ethanresnick)",
+  "name": "plastictype",
+  "description": "Parasitic Type Creation in Javascript",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ethanresnick/plastic.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethanresnick/plastic.js"
+  },
+  "contributors": [
+  ],
+  "engines": {
+    "node": ">= v0.6.0"
+  },
+  "main": "index",
+  "keywords": [
+    "type",
+    "parasitic",
+    "inheritance",
+    "class"
+  ],
+  "devDependencies": {
+    "mocha": "~1.8.0",
+  },
+  "scripts": {
+  }
+}
