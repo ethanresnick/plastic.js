@@ -24,5 +24,6 @@
     "mocha": "~1.8.0",
   },
   "scripts": {
+    "test": "make test",
   }
 }
