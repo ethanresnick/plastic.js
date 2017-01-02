@@ -21,7 +21,7 @@
     "class"
   ],
   "devDependencies": {
-    "mocha": "~1.8.0"
+    "mocha": "~3.2.0"
   },
   "scripts": {
     "test": "make test"
